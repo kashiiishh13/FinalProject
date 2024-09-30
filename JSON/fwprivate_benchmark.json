@@ -1,0 +1,10 @@
+﻿[
+    "Private: Firewall state is set to On",
+    "Inbound connections to Private profile are NotConfigured ",
+    "Outbound connections are NotConfigured",
+    "Display a notification\u0027 is set to True",
+    "Logging: Name\u0027 is set to \u0027%SystemRoot%\\System32\\logfiles\\firewall\\Privatefw.log\u0027",
+    "Logging size is set to 4096",
+    "Logging: Log dropped packets is set to No",
+    "Logging: Log dropped packets is set to No"
+]
